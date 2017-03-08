@@ -1,6 +1,4 @@
-# chirp-express-theSql-CRUD# Lab 12: Chirp Express: The SeQueL -
-
-Continuation (CRUD)
+# chirp-express-theSql-CRUD# Lab 12: Chirp Express: The SeQueL - Continuation (CRUD)
 
 ##### Covalence
 
